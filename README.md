@@ -1,7 +1,7 @@
-- That's @hoodstech account
-- The hub for all HOODS services and apps
+<h3 align="center">The hub for all hoods projects</h3>
 
-<!---
-hoodstech/hoodstech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Contacts **hoodstechsupp@gmail.com**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoodstech&show_icons=true&locale=en&layout=compact" alt="hoodstech" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoodstech&show_icons=true&locale=en" alt="hoodstech" /></p>
